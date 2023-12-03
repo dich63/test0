@@ -1,5 +1,3 @@
-
-
 if not "%tmpdir%"==""  goto Lt
 set  tmpdir=d:\temp\~rescue~
 :Lt
